@@ -1,0 +1,162 @@
+Iniciando carregar_config()
+
+Config carregada com sucesso
+
+Iniciando criar_interface()
+
+Interface criada com sucesso
+
+Erro em executar():
+[WinError 740] A operação solicitada requer elevação
+
+Traceback (most recent call last):
+  File "C:\Users\faraujo\Desktop\SetupE3_Python\main.py", line 176, in executar
+    executar_viewer(viewer, argumentos_lista)
+  File "C:\Users\faraujo\Desktop\SetupE3_Python\services\viewer_service.py", line 21, in executar_viewer
+    subprocess.Popen(
+  File "C:\Users\faraujo\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1022, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\faraujo\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1491, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 740] A operação solicitada requer elevação
+
+
+Iniciando carregar_config()
+
+Config carregada com sucesso
+
+Iniciando criar_interface()
+
+Interface criada com sucesso
+
+Erro em executar():
+[WinError 740] A operação solicitada requer elevação
+
+Traceback (most recent call last):
+  File "C:\Users\faraujo\Desktop\SetupE3_Python\main.py", line 176, in executar
+    executar_viewer(viewer, argumentos_lista)
+  File "C:\Users\faraujo\Desktop\SetupE3_Python\services\viewer_service.py", line 21, in executar_viewer
+    subprocess.Popen(
+  File "C:\Users\faraujo\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1022, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\faraujo\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1491, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 740] A operação solicitada requer elevação
+
+
+Iniciando carregar_config()
+
+Config carregada com sucesso
+
+Iniciando criar_interface()
+
+Interface criada com sucesso
+
+Erro em executar():
+[WinError 740] A operação solicitada requer elevação
+
+Traceback (most recent call last):
+  File "C:\Users\faraujo\Desktop\SetupE3_Python\main.py", line 176, in executar
+    executar_viewer(viewer, argumentos_lista)
+  File "C:\Users\faraujo\Desktop\SetupE3_Python\services\viewer_service.py", line 21, in executar_viewer
+    subprocess.Popen(
+  File "C:\Users\faraujo\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1022, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\faraujo\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1491, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 740] A operação solicitada requer elevação
+
+
+Iniciando carregar_config()
+
+Config carregada com sucesso
+
+Iniciando criar_interface()
+
+Interface criada com sucesso
+
+Erro em executar():
+[WinError 740] A operação solicitada requer elevação
+
+Traceback (most recent call last):
+  File "C:\Users\faraujo\Desktop\SetupE3_Python\main.py", line 176, in executar
+    executar_viewer(viewer, argumentos_lista)
+  File "C:\Users\faraujo\Desktop\SetupE3_Python\services\viewer_service.py", line 21, in executar_viewer
+    subprocess.Popen(
+  File "C:\Users\faraujo\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1022, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\faraujo\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1491, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 740] A operação solicitada requer elevação
+
+
+Iniciando carregar_config()
+
+Config carregada com sucesso
+
+Iniciando criar_interface()
+
+Interface criada com sucesso
+
+Iniciando carregar_config()
+
+Config carregada com sucesso
+
+Iniciando criar_interface()
+
+Interface criada com sucesso
+
+Iniciando carregar_config()
+
+Config carregada com sucesso
+
+Iniciando criar_interface()
+
+Interface criada com sucesso
+
+Iniciando carregar_config()
+
+Config carregada com sucesso
+
+Iniciando criar_interface()
+
+Interface criada com sucesso
+
+Erro em executar():
+'NoneType' object is not callable
+
+Traceback (most recent call last):
+  File "C:\Users\faraujo\Desktop\SetupE3_Python\main.py", line 175, in executar
+    criar_ou_substituir_atalho(viewer, argumentos_str, nome_atalho)(viewer, argumentos_str, nome_atalho)
+TypeError: 'NoneType' object is not callable
+
+
+Iniciando carregar_config()
+
+Config carregada com sucesso
+
+Iniciando criar_interface()
+
+Interface criada com sucesso
+
+Iniciando carregar_config()
+
+Config carregada com sucesso
+
+Iniciando criar_interface()
+
+Interface criada com sucesso
+
+Erro em executar():
+'NoneType' object is not callable
+
+Traceback (most recent call last):
+  File "C:\Users\faraujo\Desktop\SetupE3_Python\main.py", line 175, in executar
+    criar_ou_substituir_atalho(viewer, argumentos_str, nome_atalho)(viewer, argumentos_str, nome_atalho)
+TypeError: 'NoneType' object is not callable
+
+

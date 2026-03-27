@@ -1,0 +1,26 @@
+{
+  "projetos": [
+    {
+      "nome": "Projeto Padrao",
+      "quadros": [
+        {
+          "nome": "QuadroPadrao",
+          "parametros": ["linha", "estacao"]
+        }
+      ]
+    },
+    {
+      "nome": "Projeto Montagem",
+      "quadros": [
+        {
+          "nome": "QuadroMontMang",
+          "parametros": ["bancada", "linha"]
+        },
+        {
+          "nome": "QuadroMontMang_2",
+          "parametros": ["bancada", "bancada2", "linha"]
+        }
+      ]
+    }
+  ]
+}
