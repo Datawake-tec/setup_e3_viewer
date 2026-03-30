@@ -95,6 +95,3 @@ C:\Users\USUARIO\SetupE3\
 •	Não armazena informações sensíveis
 •	Pode ser removido para forçar nova configuração
 •	Garante maior praticidade e padronização no uso da aplicação
-
-13. AUTOR
-Projeto desenvolvido para uso interno em ambiente industrial.
