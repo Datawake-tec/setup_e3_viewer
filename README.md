@@ -145,9 +145,15 @@ Exemplo de conteúdo:
 
 }
 Localização:
+
 C:\Users\USUARIO\SetupE3\
+
 •	Observações:
+
 •	O arquivo é gerado automaticamente pelo sistema
+
 •	Não armazena informações sensíveis
+
 •	Pode ser removido para forçar nova configuração
+
 •	Garante maior praticidade e padronização no uso da aplicação
